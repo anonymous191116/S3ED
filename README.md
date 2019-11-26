@@ -21,7 +21,7 @@ python pretrain_tree/train.py
 
 ## Co-Training for S3-tree and ImD
 ```
-python train.py --OPTINS(details is in ./option)
+python train.py --OPTINS(details are in ./option)
 ```
 S3-tree only support generator of model type 'resnet_9blocks' for now.
 
